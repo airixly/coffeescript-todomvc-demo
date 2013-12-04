@@ -23,3 +23,7 @@ MANIFEST.MF
 */CVS/*
 .cvsignore
 */.cvsignore
+
+#js#
+marionette/js/*.js
+marionette-require/coffee/**.js
