@@ -27,3 +27,4 @@ MANIFEST.MF
 #js#
 marionette/js/*.js
 marionette-require/coffee/**/*.js
+!marionette-require/coffee/lib/tpl.js
